@@ -1,0 +1,871 @@
+{
+ "titolo": "Distributori di Terrasini e dintorni con i prezzi",
+ "fonte": "Ministero delle Imprese e del Made in Italy, Osservatorio prezzi carburanti (open data)",
+ "licenza": "IODL 2.0 (https://www.dati.gov.it/iodl/2.0/)",
+ "attribuzione": "Fonte: MIMIT, Osservatorio prezzi carburanti, licenza IODL 2.0",
+ "link_fonte": "https://www.mimit.gov.it/it/open-data/elenco-dataset/carburanti-prezzi-praticati-e-anagrafica-degli-impianti",
+ "link_ufficiale_prezzi": "https://carburanti.mise.gov.it/ospzSearch/home",
+ "estrazione_mimit": "2026-10-25",
+ "pubblicato_mimit": "Mon, 26 Oct 2026 07:45:07 GMT",
+ "generato": "2026-10-26T19:09Z",
+ "centro": {
+  "lat": 38.1522,
+  "lon": 13.0832
+ },
+ "raggio_km": 10.0,
+ "nota": "I prezzi sono quelli comunicati dai gestori e in vigore alle ore 8 del giorno prima dell'estrazione. Possono essere cambiati. Il prezzo alla pompa è quello che vale.",
+ "impianti": [
+  {
+   "id": "44740",
+   "nome": "FUELPOWER TERRASINI",
+   "bandiera": "Pompe Bianche",
+   "gestore": "FUELPOWER  SOCIETA' A RESPONSABILITA' LIMITATA",
+   "tipo": "Stradale",
+   "indirizzo": "VIA PALERMO 140 90049",
+   "comune": "Terrasini",
+   "provincia": "PA",
+   "lat": 38.152952,
+   "lon": 13.087555,
+   "distanza_km": 0.4,
+   "in_comune": true,
+   "prezzi": [
+    {
+     "carburante": "Benzina",
+     "prezzo": 2.079,
+     "self": false,
+     "comunicato": "2026-10-23"
+    },
+    {
+     "carburante": "Gasolio",
+     "prezzo": 2.259,
+     "self": false,
+     "comunicato": "2026-10-23"
+    }
+   ],
+   "ultima_comunicazione": "2026-10-23"
+  },
+  {
+   "id": "22880",
+   "nome": "GE.I.CA S.R.L.",
+   "bandiera": "Pompe Bianche",
+   "gestore": "GE.I.CA. S.R.L. (GESTIONE IMPIANTI CARBURANTI)",
+   "tipo": "Stradale",
+   "indirizzo": "PORTO DI TERRASINI 90049",
+   "comune": "Terrasini",
+   "provincia": "PA",
+   "lat": 38.157964,
+   "lon": 13.080844,
+   "distanza_km": 0.7,
+   "in_comune": true,
+   "prezzi": [],
+   "ultima_comunicazione": null
+  },
+  {
+   "id": "63665",
+   "nome": "GAN- SRL Terrasini (PA)",
+   "bandiera": "GAN",
+   "gestore": "GAN SOCIETA' A RESPONSABILITA' LIMITATA",
+   "tipo": "Stradale",
+   "indirizzo": "PARTINICO SN 90049",
+   "comune": "Terrasini",
+   "provincia": "PA",
+   "lat": 38.145299,
+   "lon": 13.082485,
+   "distanza_km": 0.8,
+   "in_comune": true,
+   "prezzi": [
+    {
+     "carburante": "Benzina",
+     "prezzo": 2.199,
+     "self": true,
+     "comunicato": "2026-10-23"
+    },
+    {
+     "carburante": "Benzina",
+     "prezzo": 2.199,
+     "self": false,
+     "comunicato": "2026-10-23"
+    },
+    {
+     "carburante": "GPL",
+     "prezzo": 0.799,
+     "self": false,
+     "comunicato": "2026-10-23"
+    },
+    {
+     "carburante": "Gasolio",
+     "prezzo": 2.399,
+     "self": true,
+     "comunicato": "2026-10-23"
+    },
+    {
+     "carburante": "Gasolio",
+     "prezzo": 2.399,
+     "self": false,
+     "comunicato": "2026-10-23"
+    }
+   ],
+   "ultima_comunicazione": "2026-10-23"
+  },
+  {
+   "id": "22879",
+   "nome": "carb oil s.r.l. in liquidazione",
+   "bandiera": "Pompe Bianche",
+   "gestore": "CARB. OIL S.R.L. -'IN LIQUIDAZIONE'",
+   "tipo": "Stradale",
+   "indirizzo": "113 Settentrionale Sicula, Km. 295+700, trapani - 90049",
+   "comune": "Terrasini",
+   "provincia": "PA",
+   "lat": 38.141212,
+   "lon": 13.083305,
+   "distanza_km": 1.2,
+   "in_comune": true,
+   "prezzi": [
+    {
+     "carburante": "Benzina",
+     "prezzo": 2.259,
+     "self": true,
+     "comunicato": "2026-10-23"
+    },
+    {
+     "carburante": "Benzina",
+     "prezzo": 2.259,
+     "self": false,
+     "comunicato": "2026-10-23"
+    },
+    {
+     "carburante": "Gasolio",
+     "prezzo": 2.479,
+     "self": true,
+     "comunicato": "2026-10-23"
+    },
+    {
+     "carburante": "Gasolio",
+     "prezzo": 2.479,
+     "self": false,
+     "comunicato": "2026-10-23"
+    }
+   ],
+   "ultima_comunicazione": "2026-10-23"
+  },
+  {
+   "id": "50464",
+   "nome": "CORSO UMBERTO 345/V. VENUTI CINISI",
+   "bandiera": "Q8",
+   "gestore": "SERVIZI & GESTIONI ITALIA S.R.L.",
+   "tipo": "Stradale",
+   "indirizzo": "CORSO UMBERTO 345/V. VENUTI 90045",
+   "comune": "Cinisi",
+   "provincia": "PA",
+   "lat": 38.160755,
+   "lon": 13.103352,
+   "distanza_km": 2.0,
+   "in_comune": false,
+   "prezzi": [
+    {
+     "carburante": "Benzina",
+     "prezzo": 1.994,
+     "self": true,
+     "comunicato": "2026-10-20"
+    },
+    {
+     "carburante": "Gasolio",
+     "prezzo": 2.254,
+     "self": true,
+     "comunicato": "2026-10-20"
+    }
+   ],
+   "ultima_comunicazione": "2026-10-20"
+  },
+  {
+   "id": "56041",
+   "nome": "ECO ENERGY SRL IP CINISI \"SS113-VIA NAZIONALE\"",
+   "bandiera": "Api-Ip",
+   "gestore": "ECO ENERGY SOCIETA' A RESPONSABILITA' LIMITATA",
+   "tipo": "Stradale",
+   "indirizzo": "NAZIONALE S.S.113 SNC 90045",
+   "comune": "Cinisi",
+   "provincia": "PA",
+   "lat": 38.164719,
+   "lon": 13.106099,
+   "distanza_km": 2.4,
+   "in_comune": false,
+   "prezzi": [
+    {
+     "carburante": "Benzina",
+     "prezzo": 1.977,
+     "self": true,
+     "comunicato": "2026-10-20"
+    },
+    {
+     "carburante": "Benzina",
+     "prezzo": 2.277,
+     "self": false,
+     "comunicato": "2026-10-20"
+    },
+    {
+     "carburante": "Gasolio",
+     "prezzo": 2.297,
+     "self": true,
+     "comunicato": "2026-10-22"
+    },
+    {
+     "carburante": "Gasolio",
+     "prezzo": 2.597,
+     "self": false,
+     "comunicato": "2026-10-22"
+    }
+   ],
+   "ultima_comunicazione": "2026-10-22"
+  },
+  {
+   "id": "39242",
+   "nome": "ECOLGAS CINISI",
+   "bandiera": "Esso",
+   "gestore": "ECOLGAS SRL",
+   "tipo": "Stradale",
+   "indirizzo": "VIA A.MORO 90045",
+   "comune": "Cinisi",
+   "provincia": "PA",
+   "lat": 38.172255,
+   "lon": 13.110167,
+   "distanza_km": 3.2,
+   "in_comune": false,
+   "prezzi": [
+    {
+     "carburante": "Benzina",
+     "prezzo": 2.199,
+     "self": true,
+     "comunicato": "2026-10-23"
+    },
+    {
+     "carburante": "Benzina",
+     "prezzo": 2.599,
+     "self": false,
+     "comunicato": "2026-10-23"
+    },
+    {
+     "carburante": "GPL",
+     "prezzo": 0.799,
+     "self": false,
+     "comunicato": "2026-10-23"
+    },
+    {
+     "carburante": "Gasolio",
+     "prezzo": 2.399,
+     "self": true,
+     "comunicato": "2026-10-23"
+    },
+    {
+     "carburante": "Gasolio",
+     "prezzo": 2.799,
+     "self": false,
+     "comunicato": "2026-10-23"
+    },
+    {
+     "carburante": "Gasolio Premium",
+     "prezzo": 1.999,
+     "self": true,
+     "comunicato": "2026-10-23"
+    },
+    {
+     "carburante": "Gasolio Premium",
+     "prezzo": 2.399,
+     "self": false,
+     "comunicato": "2026-10-23"
+    }
+   ],
+   "ultima_comunicazione": "2026-10-23"
+  },
+  {
+   "id": "56882",
+   "nome": "ALESSANDRO CARDELLA",
+   "bandiera": "Pompe Bianche",
+   "gestore": "I.D.C. CARDELLA ALESSANDRO",
+   "tipo": "Stradale",
+   "indirizzo": "S.S. 113 KM 289+533 SNC 90045",
+   "comune": "Cinisi",
+   "provincia": "PA",
+   "lat": 38.176215,
+   "lon": 13.130859,
+   "distanza_km": 4.9,
+   "in_comune": false,
+   "prezzi": [
+    {
+     "carburante": "Benzina",
+     "prezzo": 2.089,
+     "self": true,
+     "comunicato": "2026-10-22"
+    },
+    {
+     "carburante": "Benzina",
+     "prezzo": 2.089,
+     "self": false,
+     "comunicato": "2026-10-22"
+    },
+    {
+     "carburante": "Gasolio",
+     "prezzo": 2.266,
+     "self": true,
+     "comunicato": "2026-10-22"
+    },
+    {
+     "carburante": "Gasolio",
+     "prezzo": 2.266,
+     "self": false,
+     "comunicato": "2026-10-22"
+    }
+   ],
+   "ultima_comunicazione": "2026-10-22"
+  },
+  {
+   "id": "51568",
+   "nome": "Q8 di crivello antonino",
+   "bandiera": "Q8",
+   "gestore": "CRIVELLO ANTONINO",
+   "tipo": "Stradale",
+   "indirizzo": "113 dir Settentrionale Sicula, Km. 289, Cinisi - 90045",
+   "comune": "Cinisi",
+   "provincia": "PA",
+   "lat": 38.176178,
+   "lon": 13.130935,
+   "distanza_km": 5.0,
+   "in_comune": false,
+   "prezzi": [],
+   "ultima_comunicazione": null
+  },
+  {
+   "id": "40243",
+   "nome": "PA059",
+   "bandiera": "Q8",
+   "gestore": "EOS SERVICES S.R.L. A SOCIO UNICO",
+   "tipo": "Stradale",
+   "indirizzo": "STRADA VICINALE FINAITA SNC 90044",
+   "comune": "Carini",
+   "provincia": "PA",
+   "lat": 38.17593,
+   "lon": 13.139779,
+   "distanza_km": 5.6,
+   "in_comune": false,
+   "prezzi": [
+    {
+     "carburante": "Benzina",
+     "prezzo": 1.999,
+     "self": true,
+     "comunicato": "2026-10-23"
+    },
+    {
+     "carburante": "Benzina",
+     "prezzo": 2.299,
+     "self": false,
+     "comunicato": "2026-10-23"
+    },
+    {
+     "carburante": "Gasolio",
+     "prezzo": 2.269,
+     "self": true,
+     "comunicato": "2026-10-23"
+    },
+    {
+     "carburante": "Gasolio",
+     "prezzo": 2.569,
+     "self": false,
+     "comunicato": "2026-10-23"
+    },
+    {
+     "carburante": "Hi-Q Diesel",
+     "prezzo": 2.469,
+     "self": true,
+     "comunicato": "2026-10-23"
+    },
+    {
+     "carburante": "Hi-Q Diesel",
+     "prezzo": 2.769,
+     "self": false,
+     "comunicato": "2026-10-23"
+    }
+   ],
+   "ultima_comunicazione": "2026-10-23"
+  },
+  {
+   "id": "42557",
+   "nome": "GIONATA SAS DI GIUSEPPE SCIARRINO",
+   "bandiera": "Pompe Bianche",
+   "gestore": "GIONATA S.A.S. DI GIUSEPPE SCIARRINO",
+   "tipo": "Stradale",
+   "indirizzo": "LUNGOMARE CRISTOFORO COLOMBO 881 90044",
+   "comune": "Carini",
+   "provincia": "PA",
+   "lat": 38.170079,
+   "lon": 13.168745,
+   "distanza_km": 7.7,
+   "in_comune": false,
+   "prezzi": [
+    {
+     "carburante": "Benzina",
+     "prezzo": 2.329,
+     "self": false,
+     "comunicato": "2026-10-24"
+    },
+    {
+     "carburante": "Gasolio",
+     "prezzo": 2.389,
+     "self": false,
+     "comunicato": "2026-10-24"
+    }
+   ],
+   "ultima_comunicazione": "2026-10-24"
+  },
+  {
+   "id": "47099",
+   "nome": "Q8 VILLAGRAZIA CARINI",
+   "bandiera": "Q8",
+   "gestore": "MANCINO OIL SOCIETA' A RESPONSABILITA' LIMITATA",
+   "tipo": "Stradale",
+   "indirizzo": "PIAZZA VITTORIA 90044",
+   "comune": "Carini",
+   "provincia": "PA",
+   "lat": 38.159018,
+   "lon": 13.170307,
+   "distanza_km": 7.7,
+   "in_comune": false,
+   "prezzi": [
+    {
+     "carburante": "Benzina",
+     "prezzo": 1.994,
+     "self": true,
+     "comunicato": "2026-10-19"
+    },
+    {
+     "carburante": "Benzina",
+     "prezzo": 2.204,
+     "self": false,
+     "comunicato": "2026-10-19"
+    },
+    {
+     "carburante": "Gasolio",
+     "prezzo": 2.254,
+     "self": true,
+     "comunicato": "2026-10-19"
+    },
+    {
+     "carburante": "Gasolio",
+     "prezzo": 2.464,
+     "self": false,
+     "comunicato": "2026-10-19"
+    },
+    {
+     "carburante": "Hi-Q Diesel",
+     "prezzo": 2.709,
+     "self": true,
+     "comunicato": "2026-10-19"
+    },
+    {
+     "carburante": "Hi-Q Diesel",
+     "prezzo": 2.869,
+     "self": false,
+     "comunicato": "2026-10-19"
+    }
+   ],
+   "ultima_comunicazione": "2026-10-19"
+  },
+  {
+   "id": "32762",
+   "nome": "GIAG",
+   "bandiera": "Pompe Bianche",
+   "gestore": "BALSAMO GIOVANNI",
+   "tipo": "Stradale",
+   "indirizzo": "VIA ANGELO MORELLO SNC 90044",
+   "comune": "Carini",
+   "provincia": "PA",
+   "lat": 38.145062,
+   "lon": 13.174862,
+   "distanza_km": 8.1,
+   "in_comune": false,
+   "prezzi": [
+    {
+     "carburante": "Benzina",
+     "prezzo": 2.084,
+     "self": true,
+     "comunicato": "2026-10-22"
+    },
+    {
+     "carburante": "Benzina",
+     "prezzo": 2.384,
+     "self": false,
+     "comunicato": "2026-10-22"
+    },
+    {
+     "carburante": "GPL",
+     "prezzo": 0.719,
+     "self": false,
+     "comunicato": "2026-10-22"
+    },
+    {
+     "carburante": "Gasolio",
+     "prezzo": 2.374,
+     "self": true,
+     "comunicato": "2026-10-22"
+    },
+    {
+     "carburante": "Gasolio",
+     "prezzo": 2.674,
+     "self": false,
+     "comunicato": "2026-10-22"
+    }
+   ],
+   "ultima_comunicazione": "2026-10-22"
+  },
+  {
+   "id": "18469",
+   "nome": "Distributore IP Finazzo Vito",
+   "bandiera": "Api-Ip",
+   "gestore": "FINAZZO VITO",
+   "tipo": "Stradale",
+   "indirizzo": "VIA PALERMO 39 90040",
+   "comune": "Carini",
+   "provincia": "PA",
+   "lat": 38.133948,
+   "lon": 13.183041,
+   "distanza_km": 9.0,
+   "in_comune": false,
+   "prezzi": [
+    {
+     "carburante": "Benzina",
+     "prezzo": 2.069,
+     "self": true,
+     "comunicato": "2026-10-21"
+    },
+    {
+     "carburante": "Benzina",
+     "prezzo": 2.239,
+     "self": false,
+     "comunicato": "2026-10-21"
+    },
+    {
+     "carburante": "Gasolio",
+     "prezzo": 2.329,
+     "self": true,
+     "comunicato": "2026-10-21"
+    },
+    {
+     "carburante": "Gasolio",
+     "prezzo": 2.499,
+     "self": false,
+     "comunicato": "2026-10-21"
+    }
+   ],
+   "ultima_comunicazione": "2026-10-21"
+  },
+  {
+   "id": "26212",
+   "nome": "Brugnano Energia",
+   "bandiera": "Pompe Bianche",
+   "gestore": "110 SOCIETA' A RESPONSABILITA' LIMITATA",
+   "tipo": "Stradale",
+   "indirizzo": "Statale 113 Settentrionale Sicula, Km. 305, dir. Bivio autostradale - 90047",
+   "comune": "Partinico",
+   "provincia": "PA",
+   "lat": 38.070957,
+   "lon": 13.093069,
+   "distanza_km": 9.1,
+   "in_comune": false,
+   "prezzi": [
+    {
+     "carburante": "Benzina",
+     "prezzo": 2.159,
+     "self": true,
+     "comunicato": "2026-10-23"
+    },
+    {
+     "carburante": "Benzina",
+     "prezzo": 2.159,
+     "self": false,
+     "comunicato": "2026-10-23"
+    },
+    {
+     "carburante": "GPL",
+     "prezzo": 0.747,
+     "self": false,
+     "comunicato": "2026-10-23"
+    },
+    {
+     "carburante": "Gasolio",
+     "prezzo": 2.399,
+     "self": true,
+     "comunicato": "2026-10-23"
+    },
+    {
+     "carburante": "Gasolio",
+     "prezzo": 2.399,
+     "self": false,
+     "comunicato": "2026-10-23"
+    }
+   ],
+   "ultima_comunicazione": "2026-10-23"
+  },
+  {
+   "id": "18855",
+   "nome": "CARINI CORSO ITALIA",
+   "bandiera": "Q8",
+   "gestore": "SERVIZI & GESTIONI ITALIA S.R.L.",
+   "tipo": "Stradale",
+   "indirizzo": "CORSO ITALIA 90044",
+   "comune": "Carini",
+   "provincia": "PA",
+   "lat": 38.139064,
+   "lon": 13.186657,
+   "distanza_km": 9.2,
+   "in_comune": false,
+   "prezzi": [
+    {
+     "carburante": "Benzina",
+     "prezzo": 1.989,
+     "self": true,
+     "comunicato": "2026-10-20"
+    },
+    {
+     "carburante": "Gasolio",
+     "prezzo": 2.249,
+     "self": true,
+     "comunicato": "2026-10-20"
+    }
+   ],
+   "ultima_comunicazione": "2026-10-20"
+  },
+  {
+   "id": "55896",
+   "nome": "ESSO DI AMATO MARIA",
+   "bandiera": "Esso",
+   "gestore": "AMATO MARIA",
+   "tipo": "Stradale",
+   "indirizzo": "Via Giacomo Matteotti 1 90044",
+   "comune": "Carini",
+   "provincia": "PA",
+   "lat": 38.133666,
+   "lon": 13.186143,
+   "distanza_km": 9.2,
+   "in_comune": false,
+   "prezzi": [
+    {
+     "carburante": "Benzina",
+     "prezzo": 2.099,
+     "self": true,
+     "comunicato": "2026-10-24"
+    },
+    {
+     "carburante": "Benzina",
+     "prezzo": 2.309,
+     "self": false,
+     "comunicato": "2026-10-24"
+    },
+    {
+     "carburante": "Gasolio",
+     "prezzo": 2.329,
+     "self": true,
+     "comunicato": "2026-10-24"
+    },
+    {
+     "carburante": "Gasolio",
+     "prezzo": 2.539,
+     "self": false,
+     "comunicato": "2026-10-24"
+    }
+   ],
+   "ultima_comunicazione": "2026-10-24"
+  },
+  {
+   "id": "38669",
+   "nome": "FUELPOWER CARINI",
+   "bandiera": "Pompe Bianche",
+   "gestore": "FUELPOWER  SOCIETA' A RESPONSABILITA' LIMITATA",
+   "tipo": "Stradale",
+   "indirizzo": "corso italia 90044",
+   "comune": "Carini",
+   "provincia": "PA",
+   "lat": 38.137594,
+   "lon": 13.186215,
+   "distanza_km": 9.2,
+   "in_comune": false,
+   "prezzi": [
+    {
+     "carburante": "Benzina",
+     "prezzo": 1.989,
+     "self": false,
+     "comunicato": "2026-10-23"
+    },
+    {
+     "carburante": "Gasolio",
+     "prezzo": 2.199,
+     "self": false,
+     "comunicato": "2026-10-23"
+    }
+   ],
+   "ultima_comunicazione": "2026-10-23"
+  },
+  {
+   "id": "39069",
+   "nome": "impianto ENI Dario Cucci",
+   "bandiera": "Agip Eni",
+   "gestore": "IMPIANTO DI DISTRIBUZIONE DI CUCCI' DARIO",
+   "tipo": "Stradale",
+   "indirizzo": "CORSO ITALIA 49 90044",
+   "comune": "Carini",
+   "provincia": "PA",
+   "lat": 38.136489,
+   "lon": 13.186141,
+   "distanza_km": 9.2,
+   "in_comune": false,
+   "prezzi": [
+    {
+     "carburante": "Benzina",
+     "prezzo": 1.99,
+     "self": true,
+     "comunicato": "2026-10-23"
+    },
+    {
+     "carburante": "Benzina",
+     "prezzo": 2.215,
+     "self": false,
+     "comunicato": "2026-10-23"
+    },
+    {
+     "carburante": "Blue Diesel",
+     "prezzo": 2.29,
+     "self": true,
+     "comunicato": "2026-10-23"
+    },
+    {
+     "carburante": "Blue Diesel",
+     "prezzo": 2.515,
+     "self": false,
+     "comunicato": "2026-10-23"
+    },
+    {
+     "carburante": "Gasolio",
+     "prezzo": 2.19,
+     "self": true,
+     "comunicato": "2026-10-23"
+    },
+    {
+     "carburante": "Gasolio",
+     "prezzo": 2.415,
+     "self": false,
+     "comunicato": "2026-10-23"
+    }
+   ],
+   "ultima_comunicazione": "2026-10-23"
+  },
+  {
+   "id": "25301",
+   "nome": "Giuliano carburanti",
+   "bandiera": "Pompe Bianche",
+   "gestore": "RITICELLA GAETANO",
+   "tipo": "Stradale",
+   "indirizzo": "Statale 113 Settentrionale Sicula, Km. 306+470, dir. Partinico - 90047",
+   "comune": "Partinico",
+   "provincia": "PA",
+   "lat": 38.068581,
+   "lon": 13.098801,
+   "distanza_km": 9.4,
+   "in_comune": false,
+   "prezzi": [
+    {
+     "carburante": "Benzina",
+     "prezzo": 2.09,
+     "self": true,
+     "comunicato": "2026-10-23"
+    },
+    {
+     "carburante": "Benzina",
+     "prezzo": 2.44,
+     "self": false,
+     "comunicato": "2026-10-23"
+    },
+    {
+     "carburante": "Gasolio",
+     "prezzo": 2.37,
+     "self": true,
+     "comunicato": "2026-10-23"
+    },
+    {
+     "carburante": "Gasolio",
+     "prezzo": 2.72,
+     "self": false,
+     "comunicato": "2026-10-23"
+    }
+   ],
+   "ultima_comunicazione": "2026-10-23"
+  },
+  {
+   "id": "46788",
+   "nome": "8425",
+   "bandiera": "Tamoil",
+   "gestore": "T.D.M. S.R.L.",
+   "tipo": "Stradale",
+   "indirizzo": "MAZZINI SNC 90040",
+   "comune": "Giardinello",
+   "provincia": "PA",
+   "lat": 38.086076,
+   "lon": 13.151421,
+   "distanza_km": 9.5,
+   "in_comune": false,
+   "prezzi": [
+    {
+     "carburante": "Benzina",
+     "prezzo": 1.999,
+     "self": true,
+     "comunicato": "2026-10-22"
+    },
+    {
+     "carburante": "Gasolio",
+     "prezzo": 2.299,
+     "self": true,
+     "comunicato": "2026-10-24"
+    }
+   ],
+   "ultima_comunicazione": "2026-10-24"
+  },
+  {
+   "id": "20265",
+   "nome": "LUKOIL di SALVIA PETROLI s.a.s",
+   "bandiera": "Lukoil",
+   "gestore": "SALVIA PETROLI S.A.S. DI SALVIA GIUSEPPA E C.",
+   "tipo": "Stradale",
+   "indirizzo": "S.S. 187 KM 59.995 90040",
+   "comune": "Trappeto",
+   "provincia": "PA",
+   "lat": 38.06926,
+   "lon": 13.043626,
+   "distanza_km": 9.9,
+   "in_comune": false,
+   "prezzi": [
+    {
+     "carburante": "Benzina",
+     "prezzo": 2.098,
+     "self": true,
+     "comunicato": "2026-10-25"
+    },
+    {
+     "carburante": "Benzina",
+     "prezzo": 2.448,
+     "self": false,
+     "comunicato": "2026-10-25"
+    },
+    {
+     "carburante": "Gasolio",
+     "prezzo": 2.419,
+     "self": true,
+     "comunicato": "2026-10-25"
+    },
+    {
+     "carburante": "Gasolio",
+     "prezzo": 2.769,
+     "self": false,
+     "comunicato": "2026-10-25"
+    }
+   ],
+   "ultima_comunicazione": "2026-10-25"
+  }
+ ]
+}
