@@ -5,9 +5,9 @@
  "attribuzione": "Fonte: MIMIT, Osservatorio prezzi carburanti, licenza IODL 2.0",
  "link_fonte": "https://www.mimit.gov.it/it/open-data/elenco-dataset/carburanti-prezzi-praticati-e-anagrafica-degli-impianti",
  "link_ufficiale_prezzi": "https://carburanti.mise.gov.it/ospzSearch/home",
- "estrazione_mimit": "2026-11-01",
- "pubblicato_mimit": "Mon, 02 Nov 2026 07:45:08 GMT",
- "generato": "2026-11-02T09:03Z",
+ "estrazione_mimit": "2026-11-02",
+ "pubblicato_mimit": "Tue, 03 Nov 2026 07:45:07 GMT",
+ "generato": "2026-11-03T09:00Z",
  "centro": {
   "lat": 38.1522,
   "lon": 13.0832
@@ -195,13 +195,13 @@
      "carburante": "Benzina",
      "prezzo": 1.987,
      "self": true,
-     "comunicato": "2026-10-27"
+     "comunicato": "2026-11-02"
     },
     {
      "carburante": "Benzina",
      "prezzo": 2.287,
      "self": false,
-     "comunicato": "2026-10-27"
+     "comunicato": "2026-11-02"
     },
     {
      "carburante": "Gasolio",
@@ -216,7 +216,7 @@
      "comunicato": "2026-10-29"
     }
    ],
-   "ultima_comunicazione": "2026-10-29"
+   "ultima_comunicazione": "2026-11-02"
   },
   {
    "id": "39242",
