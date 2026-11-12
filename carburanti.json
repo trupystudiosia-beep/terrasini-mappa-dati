@@ -5,9 +5,9 @@
  "attribuzione": "Fonte: MIMIT, Osservatorio prezzi carburanti, licenza IODL 2.0",
  "link_fonte": "https://www.mimit.gov.it/it/open-data/elenco-dataset/carburanti-prezzi-praticati-e-anagrafica-degli-impianti",
  "link_ufficiale_prezzi": "https://carburanti.mise.gov.it/ospzSearch/home",
- "estrazione_mimit": "2026-11-10",
- "pubblicato_mimit": "Wed, 11 Nov 2026 07:45:09 GMT",
- "generato": "2026-11-11T09:00Z",
+ "estrazione_mimit": "2026-11-11",
+ "pubblicato_mimit": "Thu, 12 Nov 2026 07:45:07 GMT",
+ "generato": "2026-11-12T09:00Z",
  "centro": {
   "lat": 38.1522,
   "lon": 13.0832
@@ -78,34 +78,34 @@
      "carburante": "Benzina",
      "prezzo": 2.089,
      "self": true,
-     "comunicato": "2026-11-04"
+     "comunicato": "2026-11-10"
     },
     {
      "carburante": "Benzina",
      "prezzo": 2.089,
      "self": false,
-     "comunicato": "2026-11-04"
+     "comunicato": "2026-11-10"
     },
     {
      "carburante": "GPL",
      "prezzo": 0.799,
      "self": false,
-     "comunicato": "2026-11-04"
+     "comunicato": "2026-11-10"
     },
     {
      "carburante": "Gasolio",
      "prezzo": 2.399,
      "self": true,
-     "comunicato": "2026-11-04"
+     "comunicato": "2026-11-10"
     },
     {
      "carburante": "Gasolio",
      "prezzo": 2.399,
      "self": false,
-     "comunicato": "2026-11-04"
+     "comunicato": "2026-11-10"
     }
    ],
-   "ultima_comunicazione": "2026-11-04"
+   "ultima_comunicazione": "2026-11-10"
   },
   {
    "id": "22879",
@@ -166,16 +166,16 @@
      "carburante": "Benzina",
      "prezzo": 1.994,
      "self": true,
-     "comunicato": "2026-11-08"
+     "comunicato": "2026-11-10"
     },
     {
      "carburante": "Gasolio",
-     "prezzo": 2.259,
+     "prezzo": 2.209,
      "self": true,
-     "comunicato": "2026-11-08"
+     "comunicato": "2026-11-10"
     }
    ],
-   "ultima_comunicazione": "2026-11-08"
+   "ultima_comunicazione": "2026-11-10"
   },
   {
    "id": "56041",
@@ -434,40 +434,40 @@
      "carburante": "Benzina",
      "prezzo": 1.994,
      "self": true,
-     "comunicato": "2026-11-09"
+     "comunicato": "2026-11-10"
     },
     {
      "carburante": "Benzina",
      "prezzo": 2.204,
      "self": false,
-     "comunicato": "2026-11-09"
+     "comunicato": "2026-11-10"
     },
     {
      "carburante": "Gasolio",
      "prezzo": 2.259,
      "self": true,
-     "comunicato": "2026-11-09"
+     "comunicato": "2026-11-10"
     },
     {
      "carburante": "Gasolio",
      "prezzo": 2.469,
      "self": false,
-     "comunicato": "2026-11-09"
+     "comunicato": "2026-11-10"
     },
     {
      "carburante": "Hi-Q Diesel",
      "prezzo": 2.709,
      "self": true,
-     "comunicato": "2026-11-09"
+     "comunicato": "2026-11-10"
     },
     {
      "carburante": "Hi-Q Diesel",
      "prezzo": 2.869,
      "self": false,
-     "comunicato": "2026-11-09"
+     "comunicato": "2026-11-10"
     }
    ],
-   "ultima_comunicazione": "2026-11-09"
+   "ultima_comunicazione": "2026-11-10"
   },
   {
    "id": "32762",
@@ -622,16 +622,16 @@
      "carburante": "Benzina",
      "prezzo": 1.989,
      "self": true,
-     "comunicato": "2026-11-08"
+     "comunicato": "2026-11-10"
     },
     {
      "carburante": "Gasolio",
-     "prezzo": 2.249,
+     "prezzo": 2.199,
      "self": true,
-     "comunicato": "2026-11-08"
+     "comunicato": "2026-11-10"
     }
    ],
-   "ultima_comunicazione": "2026-11-08"
+   "ultima_comunicazione": "2026-11-10"
   },
   {
    "id": "55896",
@@ -721,40 +721,40 @@
      "carburante": "Benzina",
      "prezzo": 1.99,
      "self": true,
-     "comunicato": "2026-11-09"
+     "comunicato": "2026-11-11"
     },
     {
      "carburante": "Benzina",
      "prezzo": 2.215,
      "self": false,
-     "comunicato": "2026-11-09"
+     "comunicato": "2026-11-11"
     },
     {
      "carburante": "Blue Diesel",
      "prezzo": 2.33,
      "self": true,
-     "comunicato": "2026-11-09"
+     "comunicato": "2026-11-11"
     },
     {
      "carburante": "Blue Diesel",
      "prezzo": 2.555,
      "self": false,
-     "comunicato": "2026-11-09"
+     "comunicato": "2026-11-11"
     },
     {
      "carburante": "Gasolio",
      "prezzo": 2.23,
      "self": true,
-     "comunicato": "2026-11-09"
+     "comunicato": "2026-11-11"
     },
     {
      "carburante": "Gasolio",
      "prezzo": 2.455,
      "self": false,
-     "comunicato": "2026-11-09"
+     "comunicato": "2026-11-11"
     }
    ],
-   "ultima_comunicazione": "2026-11-09"
+   "ultima_comunicazione": "2026-11-11"
   },
   {
    "id": "25301",
@@ -774,28 +774,28 @@
      "carburante": "Benzina",
      "prezzo": 1.987,
      "self": true,
-     "comunicato": "2026-11-07"
+     "comunicato": "2026-11-10"
     },
     {
      "carburante": "Benzina",
      "prezzo": 1.987,
      "self": false,
-     "comunicato": "2026-11-07"
+     "comunicato": "2026-11-10"
     },
     {
      "carburante": "Gasolio",
-     "prezzo": 2.2,
+     "prezzo": 2.23,
      "self": true,
-     "comunicato": "2026-11-07"
+     "comunicato": "2026-11-10"
     },
     {
      "carburante": "Gasolio",
-     "prezzo": 2.2,
+     "prezzo": 2.23,
      "self": false,
-     "comunicato": "2026-11-07"
+     "comunicato": "2026-11-10"
     }
    ],
-   "ultima_comunicazione": "2026-11-07"
+   "ultima_comunicazione": "2026-11-10"
   },
   {
    "id": "46788",
@@ -819,12 +819,12 @@
     },
     {
      "carburante": "Gasolio",
-     "prezzo": 2.219,
+     "prezzo": 2.199,
      "self": true,
-     "comunicato": "2026-11-09"
+     "comunicato": "2026-11-10"
     }
    ],
-   "ultima_comunicazione": "2026-11-09"
+   "ultima_comunicazione": "2026-11-10"
   },
   {
    "id": "20265",
@@ -842,30 +842,30 @@
    "prezzi": [
     {
      "carburante": "Benzina",
-     "prezzo": 2.038,
+     "prezzo": 1.998,
      "self": true,
-     "comunicato": "2026-11-08"
+     "comunicato": "2026-11-11"
     },
     {
      "carburante": "Benzina",
-     "prezzo": 2.388,
+     "prezzo": 2.348,
      "self": false,
-     "comunicato": "2026-11-08"
+     "comunicato": "2026-11-11"
     },
     {
      "carburante": "Gasolio",
-     "prezzo": 2.359,
+     "prezzo": 2.299,
      "self": true,
-     "comunicato": "2026-11-08"
+     "comunicato": "2026-11-11"
     },
     {
      "carburante": "Gasolio",
-     "prezzo": 2.709,
+     "prezzo": 2.649,
      "self": false,
-     "comunicato": "2026-11-08"
+     "comunicato": "2026-11-11"
     }
    ],
-   "ultima_comunicazione": "2026-11-08"
+   "ultima_comunicazione": "2026-11-11"
   }
  ]
 }
